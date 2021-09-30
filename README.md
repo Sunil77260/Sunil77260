@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; graduate  From NIT-Bhopal  
+- 🎓 &nbsp; graduated  From NIT-Bhopal  
 
 - 🌱 &nbsp; Learning about Full Stack Development .
 
