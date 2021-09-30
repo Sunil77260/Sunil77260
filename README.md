@@ -22,7 +22,7 @@
 
 - 💻 &nbsp;  Java| JavaScript | C | MySQL
 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | ReactJS |Node js| Mongodb
+- 🌐 &nbsp; HTML | CSS | Bootstrap | React-JS |Node JS| Mongodb
 
 <!--
 
